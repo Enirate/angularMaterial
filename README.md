@@ -10,12 +10,12 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 
 3. Go!
 
-## What you get
-(http://i.imgur.com/k4FoXOD.jpg?raw=true)
+## What you get out of the box.
+![](http://i.imgur.com/k4FoXOD.jpg?raw=true)
 
-(http://i.imgur.com/fBLpREf.jpg)
+![](http://i.imgur.com/fBLpREf.jpg)
 
-(http://i.imgur.com/1aN883j.png)
+![](http://i.imgur.com/1aN883j.png)
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
