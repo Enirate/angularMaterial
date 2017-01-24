@@ -1,0 +1,26 @@
+<div>
+  <md-toolbar color="primary">
+    <span><md-icon>account_balance</md-icon>&nbsp;<span>Material Starter</span></span>
+
+    
+
+    <button md-icon-button [md-menu-trigger-for]="menu">
+      <md-icon>expand_more</md-icon>
+    </button>
+  </md-toolbar>
+  <md-menu x-position="before" #menu="mdMenu">
+    <button md-menu-item>Option 1</button>
+    <button md-menu-item>Option 2</button>
+  </md-menu>
+
+  <md-card>
+    <md-card-title>Welcome to Material</md-card-title>
+    <md-card-subtitle>It's good to see you</md-card-subtitle>
+  </md-card>
+
+  <span class="mark">
+    <button md-fab>
+      <md-icon>question_answer</md-icon>
+    </button>
+  </span>
+</div>
