@@ -2,6 +2,21 @@
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.18.
 
+## Getting started with Material Starter
+
+1. Clone into your local environment with `git clone` command
+
+2. run `npm install` command on the project
+
+3. Go!
+
+## What you get
+[Imgur](http://i.imgur.com/k4FoXOD.jpg)
+
+[Imgur](http://i.imgur.com/fBLpREf.jpg)
+
+[Imgur](http://i.imgur.com/1aN883j.png)
+
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 

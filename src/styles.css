@@ -3,10 +3,10 @@
 /*Get fonts from google api*/
 @import '~https://fonts.googleapis.com/icon?family=Material+Icons';
 
-/*Prebuilt Material Design themes, use one at time.*/
-@import '~@angular/material/core/theming/prebuilt/purple-green.css';
+/*Prebuilt Material Design themes*/
+/*@import '~@angular/material/core/theming/prebuilt/purple-green.css';*/
 
-/*@import '~@angular/material/core/theming/prebuilt/indigo-pink.css';*/
+@import '~@angular/material/core/theming/prebuilt/indigo-pink.css';
 
 /*@import '~@angular/material/core/theming/prebuilt/deeppurple-amber.css';*/
 
@@ -14,7 +14,7 @@
 
 
 
-/*Custom styles*/
+/*custom styles*/
 
 body {
   margin: 0;
